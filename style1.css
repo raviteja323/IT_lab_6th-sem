@@ -1,0 +1,24 @@
+p.a{
+font-style:italic;
+}
+p.b{
+font-family:Times New Roman;
+}
+p.c{
+font-size:20px;
+}
+p.d{
+font-size:small;
+}
+p.e{
+font-size:large;
+}
+p.f{
+font-weight:500;
+}
+p.g{
+font-weight:bolder;
+}
+p.h{
+font-stretch:normal;
+}

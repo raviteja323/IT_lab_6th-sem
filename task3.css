@@ -1,0 +1,44 @@
+body{
+background-color:black;
+ background-image: url("index.jpeg");
+  background-repeat: repeat-y;
+
+}
+p.one{
+color:red;
+border-style:dotted;
+ padding: 35px;
+font-style:italic;
+}
+#para1{
+color:blue;
+}
+p.colortext{
+color:red;`
+}
+h1.one{
+color:red;
+ margin-left: 25px;
+margin-right: 25px;
+ margin-bottom: 50px;
+  width: 50%;
+
+}
+p.two{
+color:red;
+border-style:dotted;
+ padding: 35px;
+font-style:italic;
+}
+h1.two{
+color:red;
+ margin-left: 20px;
+}
+h1.three{
+color:red;
+background-color:blue;
+}
+div {
+  width: 150px;
+  border: 1px solid black;
+}
